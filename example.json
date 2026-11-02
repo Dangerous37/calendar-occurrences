@@ -1,0 +1,9 @@
+{
+  "start": "2025-03-08T02:30:00",
+  "zone": "America/New_York",
+  "interval_days": 1,
+  "count": 4,
+  "exclude": [
+    "2025-03-11"
+  ]
+}
